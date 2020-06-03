@@ -1,4 +1,4 @@
 ---
 title: "Contact"
 ---
-Lelah!!!!
+Lelah?? Email saya dibawah ini!
