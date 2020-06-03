@@ -1,4 +1,4 @@
-baseURL                          = "https://introvercel.now.sh/"
+baseURL                          = "https://gigitdemo.my.id"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 enableEmoji                      = true
