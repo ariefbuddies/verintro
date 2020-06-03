@@ -1,4 +1,4 @@
-baseURL                          = "https://gigitdemo.my.id"
+baseURL                          = "https://introvert.now.sh/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 enableEmoji                      = true
