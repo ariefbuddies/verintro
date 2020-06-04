@@ -10,14 +10,14 @@ enableEmoji                      = true
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
-    fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+    fadeInIndex                  = true                  # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "ariefbuddies@qmail.id"   # E-mail address for contact section
     # customCSS                    = ["style.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
     [params.home]
-        introHeight              = "large"            # Input either "medium" or "large" or "fullheight"
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = true                  # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
@@ -47,7 +47,7 @@ enableEmoji                      = true
    # con  = "facebook-f" # icon name without the 'fa-'
     #   icon_pack = "fab"
     [[params.social]]
-        url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "ariefbuddies@qmail.id"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
