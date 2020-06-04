@@ -47,7 +47,7 @@ enableEmoji                      = true
    # con  = "facebook-f" # icon name without the 'fa-'
     #   icon_pack = "fab"
     [[params.social]]
-        url = "ariefbuddies@qmail.id"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:ariefbuddies@qmail.id"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
