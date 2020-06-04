@@ -7347,9 +7347,9 @@ pre {
   max-width: 100%; }
 
 .modal-background {
-  background-color: rgba(255, 255, 255, 0.9); }
+  background-color: rgba(255, 255, 255, 0.8); }
 
 .modal-close {
-  background-color: #fffff; }
+  background-color: #000000; }
 
 /*# sourceMappingURL=main.css.map */
