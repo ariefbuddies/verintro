@@ -3,6 +3,4 @@ title: "Photography"
 weight: 1
 ---
 
-## Kadang ising memotret,untuk kesenangan belaka
-
-Proyek iseng
+Kadang iseng memotret,untuk kesenangan belaka
