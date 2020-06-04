@@ -235,14 +235,14 @@ a {
     color: #000000; }
 
 code {
-  background-color: #ffffff;
+  background-color: #e9ebee;
   color: #00b8d4;
   font-size: 0.875em;
   font-weight: normal;
   padding: 0.25em 0.5em 0.25em; }
 
 hr {
-  background-color: #ffffff;
+  background-color: #e9ebee;
   border: none;
   display: block;
   height: 2px;
@@ -269,7 +269,7 @@ strong {
 
 pre {
   -webkit-overflow-scrolling: touch;
-  background-color: #ffffff;
+  background-color: #e9ebee;
   color: #4a4a4a;
   font-size: 0.875em;
   overflow-x: auto;
@@ -1293,7 +1293,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
 .modal-card-head,
 .modal-card-foot {
   align-items: center;
-  background-color: #ffffff;
+  background-color: #e9ebee;
   display: flex;
   flex-shrink: 0;
   justify-content: flex-start;
@@ -1328,7 +1328,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   padding: 20px; }
 
 .navbar {
-  background-color: #ffffff;
+  background-color: #e9ebee;
   min-height: 3.25rem;
   position: relative;
   z-index: 30; }
@@ -1718,7 +1718,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
     min-height: 3.25rem;
     width: 100%; }
   .navbar.has-shadow {
-    box-shadow: 0 2px 0 0 #ffffff; }
+    box-shadow: 0 2px 0 0 #e9ebee; }
   .navbar.is-fixed-bottom, .navbar.is-fixed-top {
     left: 0;
     position: fixed;
@@ -1727,7 +1727,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   .navbar.is-fixed-bottom {
     bottom: 0; }
     .navbar.is-fixed-bottom.has-shadow {
-      box-shadow: 0 -2px 0 0 #ffffff; }
+      box-shadow: 0 -2px 0 0 #e9ebee; }
   .navbar.is-fixed-top {
     top: 0; }
 
@@ -1809,7 +1809,7 @@ a.navbar-item,
   a.navbar-item:hover, a.navbar-item.is-active,
   .navbar-link:hover,
   .navbar-link.is-active {
-    background-color: #ffffff;
+    background-color: #e9ebee;
     color: #dbdbdb; }
 
 .navbar-item {
@@ -1858,7 +1858,7 @@ a.navbar-item,
     padding-right: 1.5rem; }
 
 .navbar-divider {
-  background-color: #ffffff;
+  background-color: #e9ebee;
   border: none;
   display: none;
   height: 2px;
@@ -1874,7 +1874,7 @@ a.navbar-item,
   .navbar-link::after {
     display: none; }
   .navbar-menu {
-    background-color: #ffffff;
+    background-color: #e9ebee;
     box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
     padding: 0.5rem 0; }
     .navbar-menu.is-active {
@@ -1925,10 +1925,10 @@ a.navbar-item,
     .navbar.is-transparent .navbar-item.has-dropdown.is-active .navbar-link, .navbar.is-transparent .navbar-item.has-dropdown.is-hoverable:hover .navbar-link {
       background-color: transparent !important; }
     .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
-      background-color: #ffffff;
+      background-color: #e9ebee;
       color: #0a0a0a; }
     .navbar.is-transparent .navbar-dropdown a.navbar-item.is-active {
-      background-color: #ffffff;
+      background-color: #e9ebee;
       color: #3273dc; }
   .navbar-burger {
     display: none; }
@@ -1983,10 +1983,10 @@ a.navbar-item,
     .navbar-dropdown a.navbar-item {
       padding-right: 3rem; }
       .navbar-dropdown a.navbar-item:hover {
-        background-color: #ffffff;
+        background-color: #e9ebee;
         color: #0a0a0a; }
       .navbar-dropdown a.navbar-item.is-active {
-        background-color: #ffffff;
+        background-color: #e9ebee;
         color: #3273dc; }
     .navbar.is-spaced .navbar-dropdown, .navbar-dropdown.is-boxed {
       border-radius: 6px;
@@ -2040,7 +2040,7 @@ a.navbar-item,
   .navbar-link.is-active:not(:hover) {
     background-color: transparent; }
   .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link {
-    background-color: #ffffff; } }
+    background-color: #e9ebee; } }
 
 .column {
   display: block;
@@ -7056,7 +7056,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900; }
 
 html, body {
-  background-color: #ffffff; }
+  background-color: #e9ebee; }
 
 html.modal-open {
   overflow: hidden; }
@@ -7181,7 +7181,7 @@ pre {
   margin-right: auto; }
 
 .navbar-burger:hover {
-  background-color: #ffffff; }
+  background-color: #e9ebee; }
 
 .navbar-item {
   text-transform: uppercase;
@@ -7223,7 +7223,7 @@ pre {
   box-shadow: none; }
 
 .card-content {
-  background-color: #ffffff;
+  background-color: #e9ebee;
   font-size: 1.5rem; }
 
 .has-content-centered {
